@@ -1,6 +1,6 @@
 # XM Cloud Starter Kit (Next JS)
 
-## QUICK START
+## QUICK STAR
 
 1. In an ADMIN terminal:
 
